@@ -4,10 +4,10 @@ This is a website that is used to get potential individuals who are in need of a
 
 ### Tech Stack:
 
-![Mongodb](https://images.seeklogo.com/logo-png/44/2/mongodb-logo-png_seeklogo-444844.png)MongoDB
-![react+vite logo](https://images.seeklogo.com/logo-png/40/1/vite-logo-png_seeklogo-405912.png) React +vite
-![Express logo](https://images.seeklogo.com/logo-png/27/2/express-logo-png_seeklogo-273075.png) Express
-<img src="https://i.pinimg.com/236x/b2/31/7e/b2317e8174e5fcef57c74c662f57d155.jpg" alt="React Logo" width="30" />
+<img src="https://i.pinimg.com/236x/b2/31/7e/b2317e8174e5fcef57c74c662f57d155.jpg" alt="React Logo" width="30" /> MongoDB
+<img src="https://i.pinimg.com/236x/5d/09/32/5d0932d4dd17c926806635893260205e.jpg" alt="React Logo" width="30" /> Express
+<img src="https://i.pinimg.com/236x/82/b8/20/82b820a40956b6abee4e4df9a3485735.jpg" alt="React Logo" width="30" /> React
+<img src="https://i.pinimg.com/736x/f8/bf/3b/f8bf3b02422534394bafea922955c77b.jpg" alt="React Logo" width="30" /> Node js
 
 ### Dependencies
  ```
