@@ -20,3 +20,13 @@ npm i npm install framer-motion
 WebForms
 ```
 
+It is a full-stack website that is used to get potential individuals who are in need of a home. It provides easy acess to a acquire a home.
+
+#Author
+
+Odari K. Charles
+
+```
+http://github.com/ODARI-CHARLES1
+
+```
